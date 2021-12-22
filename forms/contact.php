@@ -14,6 +14,9 @@ if(isset($_POST['submit'])){
   $email = $_POST['email'];
   $message = $_POST['message'];
 
+  echo $name;
+
+  /*
   try{
     $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';
@@ -39,5 +42,8 @@ if(isset($_POST['submit'])){
                 <span>'.$e->getMessage().'</span>
               </div>';
   }
+  */
 }
+
+
 ?>
