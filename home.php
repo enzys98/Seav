@@ -31,6 +31,17 @@
 
 </head>
 
+    <style type="text/css">
+        .submitButton {
+            background: #ffc451;
+            border: 0;
+            padding: 10px 24px;
+            color: #151515;
+            transition: 0.4s;
+            border-radius: 4px;
+        }
+    </style>
+
 <body>
 
     <!-- ======= Header ======= -->
@@ -68,7 +79,7 @@
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
                     <h1>Le migliori soluzioni per gli impianti elettrici<span>.</span></h1>
-                    <h2>We are the best in world</h2>
+                    <h2>Frase da inserire</h2>
                 </div>
             </div>
 
@@ -76,21 +87,22 @@
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
                         <i class="ri-store-line"></i>
-                        <h3><a href="">Lorem Ipsum</a></h3>
+                        <h3><a href="">Qualità massima</a></h3>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
                         <i class="ri-bar-chart-box-line"></i>
-                        <h3><a href="">Dolor Sitema</a></h3>
+                        <h3><a href="">100% affidabilità</a></h3>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
                         <i class="ri-calendar-todo-line"></i>
-                        <h3><a href="">Sedare Perspiciatis</a></h3>
+                        <h3><a href="">Puntualità</a></h3>
                     </div>
                 </div>
+                <!--
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
                         <i class="ri-paint-brush-line"></i>
@@ -102,7 +114,7 @@
                         <i class="ri-database-2-line"></i>
                         <h3><a href="">Nemos Enimade</a></h3>
                     </div>
-                </div>
+                </div> -->
             </div>
 
         </div>
@@ -117,7 +129,7 @@
 
                 <div class="section-title">
                     <h2>About</h2>
-                    <p>Check our history</p>
+                    <p>La nostra Storia</p>
                 </div>
 
                 <div class="row">
@@ -159,7 +171,7 @@
 
                 <div class="section-title">
                     <h2>Services</h2>
-                    <p>Check our Services</p>
+                    <p>I nostri Servizi</p>
                 </div>
 
                 <div class="row">
@@ -190,7 +202,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-world"></i></div>
-                            <h4><a href="">AUTOMAZIONE INDUSTRIALE</a></h4>
+                            <h4><a href="services/automazione.html">AUTOMAZIONE INDUSTRIALE</a></h4>
 
                         </div>
                     </div>
@@ -206,7 +218,6 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-arch"></i></div>
                             <h4><a href="">SOFTWARE PER L'INDUSTRIA</a></h4>
-                            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
                         </div>
                     </div>
 
@@ -239,16 +250,16 @@
                     <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right" data-aos-delay="100"></div>
                     <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
                         <div class="content d-flex flex-column justify-content-center">
-                            <h3>Voluptatem dignissimos provident quasi</h3>
+                            <h3>I nostri risultati</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                                
                             </p>
                             <div class="row">
                                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                                     <div class="count-box">
                                         <i class="bi bi-emoji-smile"></i>
                                         <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="2" class="purecounter"></span>
-                                        <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
+                                        <p><strong>Clienti felici</strong></p>
                                     </div>
                                 </div>
 
@@ -256,7 +267,7 @@
                                     <div class="count-box">
                                         <i class="bi bi-journal-richtext"></i>
                                         <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="2" class="purecounter"></span>
-                                        <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
+                                        <p><strong>Progetti</strong></p>
                                     </div>
                                 </div>
 
@@ -264,7 +275,7 @@
                                     <div class="count-box">
                                         <i class="bi bi-clock"></i>
                                         <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="4" class="purecounter"></span>
-                                        <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
+                                        <p><strong>Anni di esperienza</strong></p>
                                     </div>
                                 </div>
 
@@ -272,7 +283,7 @@
                                     <div class="count-box">
                                         <i class="bi bi-award"></i>
                                         <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="4" class="purecounter"></span>
-                                        <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
+                                        <p><strong>Certificazioni</strong></p>
                                     </div>
                                 </div>
                             </div>
@@ -352,7 +363,7 @@
                             <div class="my-3">
                                 
                             </div>
-                            <div class="text-center"><button type="submit">Invia Messaggio</button></div>
+                            <div class="text-center"><button class="submitButton" type="submit">Invia Messaggio</button></div>
                         </form>
 
                     </div>
@@ -367,6 +378,7 @@
     <!-- End #main -->
 
     <!-- ======= Footer ======= -->
+    <!--
     <footer id="footer">
         <div class="footer-top">
             <div class="container">
@@ -425,19 +437,8 @@
             </div>
         </div>
 
-        <div class="container">
-            <div class="copyright">
-                &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
-            </div>
-            <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you purchased the pro version. -->
-                <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-            </div>
-        </div>
-    </footer>
+    
+    </footer> -->
     <!-- End Footer -->
 
     <div id="preloader"></div>
