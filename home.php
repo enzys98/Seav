@@ -365,9 +365,7 @@
                             </div>
                             <div class="text-center"><button class="submitButton" type="submit">Invia Messaggio</button></div>
                         </form>
-
                     </div>
-
                 </div>
 
             </div>
