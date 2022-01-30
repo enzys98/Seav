@@ -48,9 +48,9 @@
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center justify-content-lg-between">
 
-            <h1 class="logo me-auto me-lg-0"><a href="index.html">SEAV<span>.</span></a></h1>
+           <!-- <h1 class="logo me-auto me-lg-0"><a href="index.html">SEAV<span>.</span></a></h1> -->
             <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+            <a href="home.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="logo seav" class="img-fluid"></a>
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
@@ -133,7 +133,7 @@
 
                 <div class="row">
                     <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                        <img src="assets/img/about.jpg" class="img-fluid" alt="" style="height: 100%!important;">
+                        <img src="assets/img/about.png" class="img-fluid" alt="" style="height: 100%!important;">
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
                         <h5>La SEAV S.R.L. è stata fondata da Viscardi Antonio come Impresa Artigiana nel 1981 a San Marzano sul Sarno e da più di 30 anni è cresciuta nelle conoscenze   e tecniche di lavorazione nel settore elettrico industriale con impegno
