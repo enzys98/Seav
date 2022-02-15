@@ -40,6 +40,10 @@
             transition: 0.4s;
             border-radius: 4px;
         }
+        
+        .fixed-top{
+            position: absolute !important;
+        }
     </style>
 
 <body>
@@ -177,7 +181,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch justify-content-center" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4><a href="services/impiantiElettrici.html">IMPIANTI ELETTRICI INDUSTRIALI</a></h4>
+                            <h4><a href="services/distribuzione_pblock.html">QUADRI ELETTRICI DI DISTRIBUZIONE P-BLOCK</a></h4>
 
                         </div>
                     </div>
@@ -185,7 +189,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0 justify-content-center" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4><a href="">IMPIANTI DI BT - MT</a></h4>
+                            <h4><a href="services/mt-bt.html">IMPIANTI DI BT - MT</a></h4>
 
                         </div>
                     </div>
@@ -193,7 +197,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4><a href="">IMPIANTI BORDO MACCHINA</a></h4>
+                            <h4><a href="services/cabineElettriche.html">CABINE ELETTRICHE DI TRASFORMAZIONE</a></h4>
 
                         </div>
                     </div>
@@ -209,14 +213,14 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-slideshow"></i></div>
-                            <h4><a href="">COSTRUZIONI DI QUADRI ELETTRICI DI DISTRIBUZIONE MT - BT</a></h4>
+                            <h4><a href="services/distribuzione.html">QUADRI ELETTRICI DI DISTRIBUZIONE</a></h4>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-arch"></i></div>
-                            <h4><a href="">SOFTWARE PER L'INDUSTRIA</a></h4>
+                            <h4><a href="services/software.html">SOFTWARE PER L'INDUSTRIA</a></h4>
                         </div>
                     </div>
 
