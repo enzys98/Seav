@@ -54,7 +54,8 @@
 
            <!-- <h1 class="logo me-auto me-lg-0"><a href="index.html">SEAV<span>.</span></a></h1> -->
             <!-- Uncomment below if you prefer to use an image logo -->
-            <a href="home.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="logo seav" class="img-fluid"></a>
+            <a href="home.php" class="logo me-auto me-lg-0"><!--<img src="assets/img/logo.png" alt="logo seav" class="img-fluid"> -->
+        </a>
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
