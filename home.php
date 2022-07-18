@@ -79,12 +79,13 @@
     <section id="hero" class="d-flex align-items-center justify-content-center">
         <div class="container" data-aos="fade-up">
 
+        <!--
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
                     <h1>Le migliori soluzioni per gli impianti elettrici<span>.</span></h1>
                     <h2>Frase da inserire</h2>
                 </div>
-            </div>
+            </div> -->
 
             <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
                 <div class="col-xl-2 col-md-4">
