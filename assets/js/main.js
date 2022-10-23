@@ -5,18 +5,7 @@
  * License: https://bootstrapmade.com/license/
  */
 
-
-let fs = require('fs');
-
 (function() {
-
-    console.log('sono quiiiiiiii');
-    var files = fs.readdirSync('/assets/img/automazione/');
-    files.forEach(function (file, index) {
-        console.log('file --> ' , files);
-    });
-
-
 
     "use strict";
 
