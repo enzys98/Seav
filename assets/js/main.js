@@ -6,7 +6,9 @@
  */
 (function() {
 
-    console.log('sono qui');
+    const test = (el, all = false) => {
+        console.log('sono qui');
+    }
 
     "use strict";
 
