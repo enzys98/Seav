@@ -8,7 +8,7 @@
 
 (function() {
 
-    const test = (el, all = false) => {
+    const test = (el) => {
 
         console.log('sono qui');
 
