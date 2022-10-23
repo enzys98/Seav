@@ -10,18 +10,17 @@
 
     const test = (el, all = false) => {
 
-        let moveFrom = "/assets/img/automazione/";
         console.log('sono qui');
 
-        fs.readdir(moveFrom, function (err, files) {
-            if (err) {
-                console.error("Could not list the directory.", err);
-                process.exit(1);
-            }
-            files.forEach(function (file, index) {
-                console.log('sono quiiiii');
-            });
-        });
+        // fs.readdir(moveFrom, function (err, files) {
+        //     if (err) {
+        //         console.error("Could not list the directory.", err);
+        //         process.exit(1);
+        //     }
+        //     files.forEach(function (file, index) {
+        //         console.log('sono quiiiii');
+        //     });
+        // });
 
     }
 
