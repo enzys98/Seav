@@ -6,7 +6,7 @@
  */
 
 
-var fs = require('fs');
+let fs = require('fs');
 
 (function() {
 
