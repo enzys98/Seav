@@ -9,6 +9,12 @@
 (function() {
 
     console.log('sono quiiiiiiii');
+    var fs = require('fs');
+    var files = fs.readdirSync('/assets/img/automazione/');
+    files.forEach(function (file, index) {
+        console.log('file --> ' , files);
+    });
+
 
 
     "use strict";
