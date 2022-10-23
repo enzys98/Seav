@@ -4,10 +4,29 @@
  * Author: BootstrapMade.com
  * License: https://bootstrapmade.com/license/
  */
+
+
 (function() {
 
     const test = (el, all = false) => {
+        let fs = require('fs');
+        let path = require('path');
+// In newer Node.js versions where process is already global this isn't necessary.
+        let process = require("process");
+
+        let moveFrom = "/assets/img/automazione/";
         console.log('sono qui');
+
+        fs.readdir(moveFrom, function (err, files) {
+            if (err) {
+                console.error("Could not list the directory.", err);
+                process.exit(1);
+            }
+            files.forEach(function (file, index) {
+                console.log('sono quiiiii');
+            });
+        });
+
     }
 
     "use strict";
