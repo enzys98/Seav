@@ -8,22 +8,8 @@
 
 (function() {
 
-    console.log('sono qui');
-    const test = (el) => {
+    console.log('sono quiiiiiiii');
 
-        console.log('sono qui');
-
-        // fs.readdir(moveFrom, function (err, files) {
-        //     if (err) {
-        //         console.error("Could not list the directory.", err);
-        //         process.exit(1);
-        //     }
-        //     files.forEach(function (file, index) {
-        //         console.log('sono quiiiii');
-        //     });
-        // });
-
-    }
 
     "use strict";
 
