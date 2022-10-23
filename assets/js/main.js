@@ -9,10 +9,6 @@
 (function() {
 
     const test = (el, all = false) => {
-        let fs = require('fs');
-        let path = require('path');
-// In newer Node.js versions where process is already global this isn't necessary.
-        let process = require("process");
 
         let moveFrom = "/assets/img/automazione/";
         console.log('sono qui');
