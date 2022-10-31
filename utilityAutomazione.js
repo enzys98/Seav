@@ -1,6 +1,6 @@
 let ajax = new XMLHttpRequest();
 let method = "GET";
-let url = "home.php";
+let url = "../home.php";
 ajax.open(method,url,true);
 ajax.send();
 
