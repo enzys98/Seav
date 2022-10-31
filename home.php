@@ -5,6 +5,6 @@ echo "ciao";
 
 $a = scandir($dir);
 
-print_r($a);
+echo $a;
 
 
