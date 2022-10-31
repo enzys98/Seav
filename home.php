@@ -10,7 +10,7 @@ if (is_dir($dir)){
     closedir($dh);
   }
 }
-echo $automazioneArray;
+print_r($automazioneArray);
 ?>
 
 
