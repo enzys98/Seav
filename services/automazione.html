@@ -319,6 +319,17 @@
 
     <!-- Vendor JS Files -->
 
+    <script>
+        const xmlhttp = new XMLHttpRequest();
+
+        xmlhttp.onload = function() {
+            const myObj = JSON.parse(this.responseText);
+            console.log('ciao -->', myObj);
+        }
+        xmlhttp.open("GET", "../home.php");
+        xmlhttp.send();
+    </script>
+
     <script src="../assets/vendor/aos/aos.js"></script>
     <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>

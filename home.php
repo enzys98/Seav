@@ -10,7 +10,8 @@ if (is_dir($dir)){
     closedir($dh);
   }
 }
-print_r($automazioneArray);
+
+json_encode($automazioneArray);
 ?>
 
 
