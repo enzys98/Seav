@@ -11,7 +11,7 @@ if (is_dir($dir)){
   }
 }
 
-json_encode($automazioneArray);
+$myJSON = json_encode($automazioneArray);
 ?>
 
 
