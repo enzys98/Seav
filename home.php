@@ -1,5 +1,5 @@
 <?php
-$dir = "/assets/img/automazione/";
+$dir = "/assets/img/automazione";
 
 // Open a directory, and read its contents
 if (is_dir($dir)){
