@@ -1,4 +1,4 @@
-fetch("../home.php").then(async response => {
+fetch("/home.php").then(async response => {
     try {
         const data = await response.json()
         console.log('response data?', data)
