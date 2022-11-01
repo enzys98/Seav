@@ -11,5 +11,5 @@ if (is_dir($dir)){
     }
 }
 //print_r($pblockArray);
-//echo gettype($pblockArray);
+echo gettype($pblockArray);
 echo json_encode($pblockArray);
