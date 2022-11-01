@@ -11,7 +11,7 @@ ajax.onreadystatechange = function () {
         //console.log(data);
         data.forEach(element => {
             if(element.includes('.jpg') || element.includes('.jpeg') || element.includes('.png') || element.includes('.JPG')) {
-                console.log('element --> ' , element);
+                console.log('element1 --> ' , element);
                 let divImage = document.querySelector('#gallery');
                 let divCol = document.createElement('div');
                 divCol.classList.add("col-sm-6");
