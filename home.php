@@ -1,15 +1,16 @@
 <?php
 $dir = "assets/img/pblock/";
-$pblockArray = array();
+$pblockArray = array("Volvo", "BMW", "Toyota");
+
 // Open a directory, and read its contents
-if (is_dir($dir)){
-    if ($dh = opendir($dir)){
-        while (($file = readdir($dh)) !== false){
-            $pblockArray[] = $file;
-        }
-        closedir($dh);
-    }
-}
+//if (is_dir($dir)){
+//    if ($dh = opendir($dir)){
+//        while (($file = readdir($dh)) !== false){
+//            $pblockArray[] = $file;
+//        }
+//        closedir($dh);
+//    }
+//}
 //print_r($pblockArray);
 echo gettype($pblockArray);
 echo json_encode($pblockArray);
