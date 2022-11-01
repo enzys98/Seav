@@ -7,7 +7,7 @@ ajax.send();
 ajax.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
 
-        let data = (ajax.responseText);
+        let data = (this.responseText);
         console.log(data);
 
         //console.log(this.responseText.length);
