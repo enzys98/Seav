@@ -26,7 +26,9 @@ ajax.onreadystatechange = function () {
                 divImage.appendChild(divCol);
             }
 
-             */
+
         });
+
+         */
     }
 }
