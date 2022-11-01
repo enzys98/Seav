@@ -1,5 +1,5 @@
 <?php
-$dir = "/assets/img/pblock/";
+$dir = "assets/img/pblock/";
 $pblockArray = array();
 // Open a directory, and read its contents
 if (is_dir($dir)){
@@ -10,6 +10,6 @@ if (is_dir($dir)){
         closedir($dh);
     }
 }
-echo gettype($pblockArray);
 print_r($pblockArray);
+echo gettype($pblockArray);
 $myJSON = json_encode($pblockArray);
