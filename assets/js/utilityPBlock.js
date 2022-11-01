@@ -17,13 +17,13 @@ ajax.onreadystatechange = function () {
                 divCol.classList.add("col-sm-6");
                 divCol.classList.add("col-md-3");
                 divCol.classList.add("mb-3");
-                let a = document.createElement('a');
-                a.href = "/assets/img/distribuzione/" +element;
-                a.dataFancybox = "gallery";
+                // let a = document.createElement('a');
+                // a.href = "/assets/img/distribuzione/" +element;
+                // a.dataFancybox = "gallery";
                 let img = document.createElement('img');
-                img.src = "/assets/img/distribuzione/" +element;
-                a.appendChild(img);
-                divCol.appendChild(a);
+                img.src = "../img/distribuzione/" +element;
+                //a.appendChild(img);
+                divCol.appendChild(img);
                 divImage.appendChild(divCol);
 
 
