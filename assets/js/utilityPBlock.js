@@ -21,7 +21,7 @@ ajax.onreadystatechange = function () {
                 // a.href = "/assets/img/distribuzione/" +element;
                 // a.dataFancybox = "gallery";
                 let img = document.createElement('img');
-                img.src = "../assets/img/distribuzione/" +element;
+                img.src = "../assets/img/pblock/" +element;
                 //a.appendChild(img);
                 divCol.appendChild(img);
                 divImage.appendChild(divCol);
