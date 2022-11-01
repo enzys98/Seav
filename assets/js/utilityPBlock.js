@@ -6,7 +6,11 @@ ajax.send();
 
 ajax.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
-        //console.log(this.responseText);
+        console.log(this.responseText);
+        for (let element in this.responseText) {
+            console.log(element);
+        }
+        /*
         this.responseText.forEach(element => {
             console.log('element --> ' , element);
             /*
