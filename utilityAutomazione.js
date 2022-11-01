@@ -1,6 +1,6 @@
 let ajax = new XMLHttpRequest();
 let method = "GET";
-let url = "../home.php";
+let url = "/assets/UtilityPHP/utility.php";
 ajax.open(method,url,true);
 ajax.send();
 
