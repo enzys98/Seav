@@ -19,7 +19,7 @@ ajax.onreadystatechange = function () {
                 let a = document.createElement('a');
                 a.classList.add("fancybox");
                 a.href = "/assets/img/distribuzione/" +element;
-                a.dataFancybox = "gallery1";
+                a.setAttribute("data-fancybox","gallery1");
                 let img = document.createElement('img');
                 img.src = "../assets/img/pblock/" +element;
                 a.appendChild(img);
