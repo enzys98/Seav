@@ -18,10 +18,10 @@ ajax.onreadystatechange = function () {
                 divCol.classList.add("col-md-3");
                 divCol.classList.add("mb-3");
                 let a = document.createElement('a');
-                a.href = "../img/distribuzione/" +element;
+                a.href = "/assets/img/distribuzione/" +element;
                 a.dataFancybox = "gallery";
                 let img = document.createElement('img');
-                img.src = "../img/distribuzione/" +element;
+                img.src = "/assets/img/distribuzione/" +element;
                 a.appendChild(img);
                 divCol.appendChild(a);
                 divImage.appendChild(divCol);
