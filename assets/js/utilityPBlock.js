@@ -25,6 +25,8 @@ ajax.onreadystatechange = function () {
                 a.appendChild(img);
                 divCol.appendChild(a);
                 divImage.appendChild(divCol);
+
+
             }
 
 
