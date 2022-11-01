@@ -18,9 +18,11 @@ ajax.onreadystatechange = function () {
                 divCol.classList.add("mb-3");
                 let a = document.createElement('a');
                 a.classList.add("fancybox");
-                a.href = "/assets/img/distribuzione/" +element;
+                a.href = "/assets/img/pblock/" +element;
                 a.setAttribute("data-fancybox","gallery1");
                 let img = document.createElement('img');
+                img.setAttribute("width","100%");
+                img.setAttribute("height","100%");
                 img.src = "../assets/img/pblock/" +element;
                 a.appendChild(img);
                 divCol.appendChild(a);
