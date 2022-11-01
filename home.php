@@ -10,6 +10,6 @@ if (is_dir($dir)){
         closedir($dh);
     }
 }
-print_r($pblockArray);
+//print_r($pblockArray);
 echo gettype($pblockArray);
 $myJSON = json_encode($pblockArray);
