@@ -6,8 +6,8 @@ ajax.send();
 
 ajax.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
-        let data = JSON.parse(ajax.responseText);
-        console.log(data);
+        //let data = JSON.parse(ajax.responseText);
+        console.log(ajax.responseText);
         //console.log(this.responseText.length);
         //let data = JSON.parse(this.responseText);
         //console.log(data);
