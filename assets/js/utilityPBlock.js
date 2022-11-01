@@ -12,15 +12,19 @@ ajax.onreadystatechange = function () {
         data.forEach(element => {
             if(element.includes('.jpg') || element.includes('.jpeg') || element.includes('.png') || element.includes('.JPG')) {
                 console.log('element --> ' , element);
-                // let divImage = document.querySelector('#gallery');
-                // let divCol = document.createElement('div');
-                // divCol.classList.add("col-sm-6");
-                // divCol.classList.add("col-md-3");
-                // divCol.classList.add("mb-3");
-                // let img = document.createElement('img');
-                // img.src = "../assets/img/distribuzione/" +element;
-                // divCol.appendChild(img);
-                // divImage.appendChild(divCol);
+                let divImage = document.querySelector('#gallery');
+                let divCol = document.createElement('div');
+                divCol.classList.add("col-sm-6");
+                divCol.classList.add("col-md-3");
+                divCol.classList.add("mb-3");
+                let a = document.createElement('a');
+                a.href = "../img/distribuzione/" +element;
+                a.dataFancybox = "gallery";
+                let img = document.createElement('img');
+                img.src = "../img/distribuzione/" +element;
+                a.appendChild(img);
+                divCol.appendChild(a);
+                divImage.appendChild(divCol);
             }
 
 
