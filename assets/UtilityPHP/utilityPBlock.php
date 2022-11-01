@@ -12,4 +12,4 @@ if (is_dir($dir)){
 }
 
 print_r($pblockArray);
-$myJSON = json_encode($pblockArray);
+$myJSON = json_encode('ciao');
