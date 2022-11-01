@@ -10,6 +10,11 @@
 # General
 --------------------------------------------------------------*/
 
+img {
+    height: 100%;
+    width: 100%;
+}
+
 body {
     font-family: "Open Sans", sans-serif;
     color: #444444;
