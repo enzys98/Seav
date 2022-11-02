@@ -138,7 +138,7 @@
                     <p>La nostra Storia</p>
                 </div>
 
-                <div class="row">
+                <div class="row" style="height: 650px;">
                     <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
                         <img src="assets/img/storia.jpeg" class="img-fluid" alt="" style="height: 65%!important;">
                     </div>
