@@ -11,5 +11,4 @@ if (is_dir($dir)){
     }
 }
 
-print_r($automazioneArray);
-$myJSON = json_encode($automazioneArray);
+echo json_encode($automazioneArray);
