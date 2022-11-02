@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="feeb11f9-a69b-4a44-95e7-cf2f3c85c59c" name="SEAV" url="http://ftp.seavav.it">
+        <fileTransfer rootFolder="/www.seavav.it" host="ftp.seavav.it" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
