@@ -82,7 +82,7 @@
 
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
-                <img src="assets/img/logo.png" alt="logo seav" class="img-fluid">
+                <img src="assets/img/logo.png" alt="logo seav" class="img-fluid" width="70%">
                     <!--
                     <h1>Le migliori soluzioni per gli impianti elettrici<span>.</span></h1>
                     <h2>Frase da inserire</h2> -->
