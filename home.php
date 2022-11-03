@@ -227,6 +227,13 @@
                         </div>
                     </div>
 
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
+                        <div class="icon-box">
+                            <div class="icon"><i><a href="https://www.flaticon.com/free-icons/photovoltaic" title="photovoltaic icons">Photovoltaic icons created by Smashicons - Flaticon</a></i></div>
+                            <h4><a href="services/software.html">PANNELLI FOTOVOLTAICI</a></h4>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
