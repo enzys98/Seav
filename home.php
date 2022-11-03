@@ -356,7 +356,7 @@
         </section> -->
         <!-- End Cta Section -->
         <section id="carousel" style="height: 400px" >
-            <div class="slideshow-container" style="height: 400px">
+            <div class="slideshow-container">
 
                 <div class="mySlides fade">
                     <div class="numbertext">1 / 3</div>
