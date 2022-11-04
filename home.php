@@ -257,6 +257,8 @@
             </div>
         </section>
 
+
+        <!-- ======= Carousel Section ======= -->
         <section id="carousel">
             <div class="center">
                 <div class="container" data-aos="fade-up">
@@ -268,42 +270,42 @@
 
                     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active" data-bs-interval="5000">
+                            <div class="carousel-item active" data-bs-interval="3000">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel1.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel1.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel2.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel2.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel3.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel3.jpeg">
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item" data-bs-interval="2000">
+                            <div class="carousel-item" data-bs-interval="1500">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel4.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel4.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel5.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel5.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel6.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel6.jpeg">
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item" data-bs-interval="2000">
+                            <div class="carousel-item" data-bs-interval="1500">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel7.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel7.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel8.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel8.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                        <img src="assets/img/carousel/carousel9.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel9.jpeg">
                                     </div>
                                 </div>
                             </div>
