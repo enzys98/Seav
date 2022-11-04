@@ -214,7 +214,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-tachometer"></i></div>
+                            <div class="icon"><img src="assets/img/icone/iconaCabina.png"></div>
                             <h4><a href="services/cabineElettriche.html">CABINE ELETTRICHE DI TRASFORMAZIONE</a></h4>
 
                         </div>
@@ -244,14 +244,14 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx "></i></div>
+                            <div class="icon"><img src="assets/img/icone/iconaFotovoltaico.png"></div>
                             <h4><a href="services/fotovoltaici.html">PANNELLI FOTOVOLTAICI</a></h4>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><img src="assets/img/icone/iconaCanalina2.png"></div>
+                            <div class="icon"><img src="assets/img/icone/iconaCanalina.png"></div>
                             <h4><a href="services/impiantiStabilimenti.html">IMPIANTI STABILIMENTI</a></h4>
                         </div>
                     </div>
