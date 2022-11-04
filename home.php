@@ -74,17 +74,17 @@
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                    <li><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Services</a></li>
+                    <li><a class="nav-link scrollto" href="#about">Storia</a></li>
+                    <li><a class="nav-link scrollto" href="#services">Servizi</a></li>
                     <!-- PORTFOLIO -->
                     <!--<li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    <li><a class="nav-link scrollto" href="#contact">Contatti</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
             <!-- .navbar -->
 
-            <a href="#about" class="get-started-btn scrollto">Get Started</a>
+            <a href="#about" class="get-started-btn scrollto">Iniziamo</a>
 
         </div>
     </header>
@@ -251,7 +251,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx "></i></div>
+                            <div class="icon"><img src="assets/img/icone/iconCanalina.png"></div>
                             <h4><a href="services/impiantiStabilimenti.html">IMPIANTI STABILIMENTI</a></h4>
                         </div>
                     </div>
