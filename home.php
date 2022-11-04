@@ -286,10 +286,10 @@
                             <div class="carousel-item" data-bs-interval="5000">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel4.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel4.jpeg">
+                                        <img src="assets/img/carousel/carousel4.jpg" class="d-block w-100" alt="assets/img/carousel/carousel4.jpg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel5.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel5.jpeg">
+                                        <img src="assets/img/carousel/carousel5.JPG" class="d-block w-100" alt="assets/img/carousel/carousel5.JPG">
                                     </div>
                                     <div class="col-lg-4">
                                         <img src="assets/img/carousel/carousel6.png" class="d-block w-100" alt="assets/img/carousel/carousel6.png">
