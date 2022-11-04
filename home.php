@@ -88,7 +88,7 @@
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center justify-content-center">
-        <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="fade-up" style="padding-top: 0px!important;">
 
 
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
