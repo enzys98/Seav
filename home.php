@@ -251,7 +251,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><img src="assets/img/icone/iconCanalina.png"></div>
+                            <div class="icon"><img src="assets/img/icone/iconaCanalina.png"></div>
                             <h4><a href="services/impiantiStabilimenti.html">IMPIANTI STABILIMENTI</a></h4>
                         </div>
                     </div>
