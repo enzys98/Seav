@@ -27,7 +27,6 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/carousel.css" rel="stylesheet">
 
 </head>
 
@@ -538,7 +537,7 @@
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
-    <script src="assets/js/carousel.js"></script>
+
 
 </body>
 
