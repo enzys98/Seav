@@ -270,20 +270,20 @@
 
                     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active" data-bs-interval="3000">
+                            <div class="carousel-item active" data-bs-interval="5000">
                                 <div class="row">
                                     <div class="col-lg-4">
                                         <img src="assets/img/carousel/carousel1.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel1.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel2.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel2.jpeg">
+                                        <img src="assets/img/carousel/carousel2.jpg" class="d-block w-100" alt="assets/img/carousel/carousel2.jpg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel3.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel3.jpeg">
+                                        <img src="assets/img/carousel/carousel3.jpg" class="d-block w-100" alt="assets/img/carousel/carousel3.jpg">
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item" data-bs-interval="1500">
+                            <div class="carousel-item" data-bs-interval="5000">
                                 <div class="row">
                                     <div class="col-lg-4">
                                         <img src="assets/img/carousel/carousel4.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel4.jpeg">
@@ -292,17 +292,17 @@
                                         <img src="assets/img/carousel/carousel5.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel5.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel6.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel6.jpeg">
+                                        <img src="assets/img/carousel/carousel6.png" class="d-block w-100" alt="assets/img/carousel/carousel6.png">
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item" data-bs-interval="1500">
+                            <div class="carousel-item" data-bs-interval="5000">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel7.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel7.jpeg">
+                                        <img src="assets/img/carousel/carousel7.jpg" class="d-block w-100" alt="assets/img/carousel/carousel7.jpg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel8.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel8.jpeg">
+                                        <img src="assets/img/carousel/carousel8.jpg" class="d-block w-100" alt="assets/img/carousel/carousel8.jpg">
                                     </div>
                                     <div class="col-lg-4">
                                         <img src="assets/img/carousel/carousel9.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel9.jpeg">
