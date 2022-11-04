@@ -46,6 +46,7 @@
         }
 
 
+        /** CLASSE CAROUSEL **/
         .center {
             width: 100%;
             height: 100%;
@@ -256,77 +257,70 @@
 
             </div>
         </section>
-        <!-- End Services Section -->
 
-        <!-- ======= Cta Section ======= -->
-        <!--
-        <section id="cta" class="cta">
-            <div class="container" data-aos="zoom-in">
+        <section id="carousel">
+            <div class="center">
+                <div class="container" data-aos="fade-up">
 
-                <div class="text-center">
-                    <h3>Call To Action</h3>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    <a class="cta-btn" href="#">Call To Action</a>
-                </div>
-
-            </div>
-        </section> -->
-        <!-- End Cta Section -->
-        <div class="center">
-            <div class="container">
-                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="col-lg-4">
-                                    <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                        </div>
+                    <div class="section-title">
+                        <h2>Carousel</h2>
+                        <p>I nostri lavori</p>
                     </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
+
+                    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active" data-bs-interval="5000">
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item" data-bs-interval="2000">
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item" data-bs-interval="2000">
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <img src="assets/img/storia.jpeg" class="d-block w-100" alt="...">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
 
 
         <!-- ======= Counts Section ======= -->
