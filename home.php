@@ -54,6 +54,10 @@
             align-items: center;
         }
 
+        .rowCarousel {
+            height: 18rem!important;
+        }
+
     </style>
 
 <body>
@@ -271,20 +275,20 @@
                     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-bs-interval="5000">
-                                <div class="row">
+                                <div class="row rowCarousel">
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel1.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel1.jpeg">
+                                        <img src="assets/img/carousel/carousel1.jpeg" class="d-block w-100 h-100"  alt="assets/img/carousel/carousel1.jpeg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel2.jpg" class="d-block w-100" alt="assets/img/carousel/carousel2.jpg">
+                                        <img src="assets/img/carousel/carousel2.jpg" class="d-block w-100 h-100" alt="assets/img/carousel/carousel2.jpg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel3.jpg" class="d-block w-100" alt="assets/img/carousel/carousel3.jpg">
+                                        <img src="assets/img/carousel/carousel3.jpg" class="d-block w-100 h-100" alt="assets/img/carousel/carousel3.jpg">
                                     </div>
                                 </div>
                             </div>
                             <div class="carousel-item" data-bs-interval="5000">
-                                <div class="row">
+                                <div class="row rowCarousel">
                                     <div class="col-lg-4">
                                         <img src="assets/img/carousel/carousel4.jpg" class="d-block w-100 h-100" alt="assets/img/carousel/carousel4.jpg">
                                     </div>
@@ -297,15 +301,15 @@
                                 </div>
                             </div>
                             <div class="carousel-item" data-bs-interval="5000">
-                                <div class="row">
+                                <div class="row rowCarousel">
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel7.jpg" class="d-block w-100" alt="assets/img/carousel/carousel7.jpg">
+                                        <img src="assets/img/carousel/carousel7.jpg" class="d-block w-100 h-100" alt="assets/img/carousel/carousel7.jpg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel8.jpg" class="d-block w-100" alt="assets/img/carousel/carousel8.jpg">
+                                        <img src="assets/img/carousel/carousel8.jpg" class="d-block w-100 h-100" alt="assets/img/carousel/carousel8.jpg">
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="assets/img/carousel/carousel9.jpeg" class="d-block w-100" alt="assets/img/carousel/carousel9.jpeg">
+                                        <img src="assets/img/carousel/carousel9.jpeg" class="d-block w-100 h-100" alt="assets/img/carousel/carousel9.jpeg">
                                     </div>
                                 </div>
                             </div>
