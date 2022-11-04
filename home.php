@@ -237,7 +237,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-arch"></i></div>
+                            <div class="icon"><img src="assets/img/icone/iconaSoftware.png"></div>
                             <h4><a href="services/software.html">SOFTWARE PER L'INDUSTRIA</a></h4>
                         </div>
                     </div>
