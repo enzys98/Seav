@@ -198,7 +198,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch justify-content-center" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                            <div class="icon"><img src="assets/img/icone/iconaPblock.png"></div>
                             <h4><a href="services/distribuzione_pblock.html">QUADRI ELETTRICI DI DISTRIBUZIONE P-BLOCK</a></h4>
 
                         </div>
@@ -214,7 +214,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0 justify-content-center" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><img src="assets/img/icone/iconaCabina.png"></div>
+                            <div class="icon"><img src="assets/img/icone/iconaCabine.png"></div>
                             <h4><a href="services/cabineElettriche.html">CABINE ELETTRICHE DI TRASFORMAZIONE</a></h4>
 
                         </div>
@@ -230,7 +230,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 justify-content-center" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-slideshow"></i></div>
+                            <div class="icon"><img src="assets/img/icone/iconaDistribuzione.png"></div>
                             <h4><a href="services/distribuzione.html">QUADRI ELETTRICI DI DISTRIBUZIONE</a></h4>
                         </div>
                     </div>
