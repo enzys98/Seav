@@ -206,7 +206,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0 justify-content-center" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-file"></i></div>
+                            <div class="icon"><img src="assets/img/icone/iconaMtBt.png"></div>
                             <h4><a href="services/mt-bt.html">IMPIANTI DI BT - MT</a></h4>
 
                         </div>
