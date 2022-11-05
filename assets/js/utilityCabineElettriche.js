@@ -18,12 +18,12 @@ ajax.onreadystatechange = function () {
                 divCol.classList.add("mb-3");
                 let a = document.createElement('a');
                 a.classList.add("fancybox");
-                a.href = "/assets/img/impiantiElettrici/" +element;
+                a.href = "/assets/img/cabine/" +element;
                 a.setAttribute("data-fancybox","gallery1");
                 let img = document.createElement('img');
                 img.setAttribute("width","100%");
                 img.setAttribute("height","100%");
-                img.src = "../assets/img/impiantiElettrici/" +element;
+                img.src = "../assets/img/cabine/" +element;
                 a.appendChild(img);
                 divCol.appendChild(a);
                 divImage.appendChild(divCol);

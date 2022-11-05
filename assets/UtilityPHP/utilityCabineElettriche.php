@@ -1,5 +1,5 @@
 <?php
-$dir = "../img/impiantiElettrici/";
+$dir = "../img/cabine/";
 $impiantiElettriciArray = array();
 // Open a directory, and read its contents
 if (is_dir($dir)){
