@@ -56,16 +56,16 @@ $alert = '';
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   </head>
   <body>
-<script>
-												swal({
-												title: "Messaggio Inviato",
-												text: "Grazie per aver lasciato un messaggio." + "\n" +  " Sarà ricontattato nel più breve tempo" ,
-												icon: "success",
-												button: "Torna alla Home!",
-												})
-												.then((value) => {
-													window.location = '../home.php';
-												});
-											</script>
+  <script>
+      swal({
+          title: "Messaggio Inviato",
+          text: "Grazie per aver lasciato un messaggio." + "\n" +  " Sarà ricontattato nel più breve tempo" ,
+          icon: "success",
+          button: "Torna alla Home!",
+      })
+          .then((value) => {
+              window.location = '../home.php';
+          });
+  </script>
   </body>
   </html>
