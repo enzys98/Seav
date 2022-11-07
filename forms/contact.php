@@ -18,12 +18,12 @@ $alert = '';
     $mail->isSMTP();
     $mail->Host = 'smtp.aruba.it';
     $mail->SMTPAuth = true;
-    $mail->Username = 'info@seavav.it'; // Gmail address which you want to use as SMTP server
-    $mail->Password = 'Sea1256!@'; // Gmail address Password
+    $mail->Username = 'enzo.guastafierro1@gmail.com'; // Gmail address which you want to use as SMTP server
+    $mail->Password = 'Enzoguastafierro1'; // Gmail address Password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-    $mail->Port = '465';
+    $mail->Port = '587';
 
-    $mail->setFrom('info@seavav.it'); // Gmail address which you used as SMTP server
+    $mail->setFrom('enzo.guastafierro1@gmail.com'); // Gmail address which you used as SMTP server
     $mail->addAddress('youranyemail@gmail.com'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
     $mail->SMTPOptions=array('ssl'=>array(
       'verify_peer'=>false,
