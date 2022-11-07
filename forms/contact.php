@@ -16,7 +16,7 @@ $alert = '';
     $message = $_POST['message'];
     
     $mail->isSMTP();
-    $mail->Host = 'smtp.aruba.it';
+    $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'enzo.guastafierro1@gmail.com'; // Gmail address which you want to use as SMTP server
     $mail->Password = 'Enzoguastafierro1'; // Gmail address Password
