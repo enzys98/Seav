@@ -34,10 +34,10 @@ $alert = '';
     $mail->Subject = 'Message Received (Contact Page)';
     $mail->Body = "<h3>Name : $name <br>Email: $email <br>Message : $message</h3>";
 
-    
 
-    $mail->send();
-    echo "mex inviato";
+
+      if (!$mail->send())
+          echo $mail->ErrorInfo;
   
 
   } catch (Exception $e){
