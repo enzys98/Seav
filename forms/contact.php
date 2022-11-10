@@ -16,7 +16,7 @@ $alert = '';
     $message = $_POST['message'];
     
     $mail->isSMTP();
-    $mail->Host = 'imap.aruba.it';
+    $mail->Host = 'stmp.aruba.it';
     $mail->SMTPAuth = true;
     $mail->Timeout = 60;
       $mail->SMTPKeepAlive = true; // don't close the connection between messages
