@@ -18,6 +18,7 @@ $alert = '';
     $mail->isSMTP();
     $mail->Host = 'imap.aruba.it';
     $mail->SMTPAuth = true;
+    $mail->Timeout = 60;
     $mail->Username = 'info@seavav.it'; // Gmail address which you want to use as SMTP server
     $mail->Password = 'Sea1256!@'; // Gmail address Password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
